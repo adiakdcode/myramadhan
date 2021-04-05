@@ -18,7 +18,7 @@ var www2 = setInterval(function () {
     loop : true
 });*/
 new Typed('#typedq',{
-    strings : ['Sekedar memberitahukan, Bulan Ramadhan Kurang : '],
+    strings : ['Sekedar Memberitahukan dan Mengingatkan saja, Bahwasannya Bulan Ramadhan Kurang dari : '],
     typeSpeed : 70,
     delaySpeed : 70,
     loop : true
